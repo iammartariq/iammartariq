@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [www.instagram.com/iammarwrites](www.instagram.com/iammarwrites/)
 
-- 📫 How to reach me **ammark2405@gmail.com**
+- 📫 How to reach me **ammartariq2405@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ammartariq24](www.linkedin.com/in/ammartariq24)
 
@@ -18,9 +18,9 @@
     Voluntering Information
     ------------------------------------------
     Member Team Technical @ AI Club
-    Memeber Team Documentation @ AI Club
+    Member Team Documentation @ AI Club
     Member Team Documentation @ NSA
-    Memeber Team Promotions @ NSA
+    Member Team Promotions @ NSA
 ```
 
 <h3 align="left">Connect with me:</h3>
