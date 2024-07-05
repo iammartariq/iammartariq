@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Muhammad Ammar Tariq Khan</h1>
+<h1 align="center">Hello 👋, I'm Ammar Tariq</h1>
 <h3 align="center">A passionate coder and enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammartariq&label=Profile%20views&color=0e75b6&style=flat" alt="iammartariq" /> </p>
@@ -35,8 +35,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-
-
 
 <hr>
 <h3>My Github Stats 🟠 </h3>
