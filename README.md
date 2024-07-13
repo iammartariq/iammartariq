@@ -71,7 +71,7 @@
 
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 
-<a href="https://www.canva.com" target="_blank"><img style="margin: 10px" src="https://freebiehive.com/canva-logo-png/" alt="Canva" height="50" /></a> 
+<a href="https://www.canva.com" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/2562356?s=200&v=4" alt="Canva" height="50" /></a> 
 </div>
 
 </td></tr></table>  
