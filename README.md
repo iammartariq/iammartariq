@@ -56,7 +56,6 @@
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 </table>
 
 # 🤹 Other Skills:
@@ -66,7 +65,7 @@
 ### Editing Tools  
 <div align="center">  
 
-<a href="https://staruml.io/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-staruml-unified-modeling-language-xml-metadata-int-6987477%2F&psig=AOvVaw2mdL7Z5AHIrlM5Eo5Y97-u&ust=1720948099364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi3q7XVo4cDFQAAAAAdAAAAABAE" alt="StarUML" height="50" /></a>  
+<a href="https://staruml.io/" target="_blank"><img style="margin: 10px" src="https://anturis.com/wp-content/uploads/2022/09/StarUML-Logo-1-184x184.png" alt="StarUML" height="50" /></a>  
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a> 
     
