@@ -78,7 +78,7 @@
 <a href="https://www.canva.com" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/2562356?s=200&v=4" alt="Canva" height="50" /></a> 
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="43%">
 
 ### Writing Tools  
 <div align="center">  
