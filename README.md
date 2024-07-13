@@ -80,8 +80,9 @@
 
 </td>
 
-<td valign="center" width="33%">
+
 ### Writing Tools  
+<td valign="center" width="33%">
 <div align="center">  
 <a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/736x/46/aa/96/46aa967637e21e2a7f7bbef5196a663c.jpg" alt="Microsoft Word" height="50" /></a> 
 
