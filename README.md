@@ -80,7 +80,7 @@
 
 </td>
 
-<table><tr><td valign="center" width="33%">
+<td valign="top" width="33%">
 
 ### Writing Tools  
 <div align="center">  
