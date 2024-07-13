@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋
-    I'm Ammar Tariq</h1>
+<h1 align="center">Hello 👋</h1>
+<h1>I'm Ammar Tariq</h1>
 <h3 align="center">A passionate coder and enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammartariq&label=Profile%20views&color=0e75b6&style=flat" alt="iammartariq" /> </p>
