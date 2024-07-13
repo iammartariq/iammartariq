@@ -58,7 +58,7 @@
 
 </table>
 
-# 🤹 Other Skills:
+# 🤹 Tools:
 
 <table><tr><td valign="top" width="33%">
 
@@ -78,9 +78,7 @@
 <a href="https://www.canva.com" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/2562356?s=200&v=4" alt="Canva" height="50" /></a> 
 </div>
 
-</td>
-
-<td valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 ### Writing Tools  
 <div align="center">  
@@ -90,8 +88,6 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/881px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Microsoft Excel" height="50" /></a> 
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqDUnc4SGfTRpTuS5NA65efRwyCqEGQ61ZQ&s" alt="Microsoft PowerPoint" height="50" /></a> 
-
-</td></tr>
 
 </table>  
 
