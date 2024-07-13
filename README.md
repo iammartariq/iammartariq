@@ -24,26 +24,23 @@
 ```
 
 # 🫡 Connect with me 
-
-<p>Socials</p>
 <p align="left">
 <a href="https://linkedin.com/in/ammartariq24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammartariq24" height="30" width="40" /></a>
 <a href="https://instagram.com/iammartariq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iammartariq" height="30" width="40" /></a>
-<a href="https://www.behance.net/iammartariq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iammartariq" height="30" width="40" /></a>
-
-<p>Coding Platforms</p>   
+    
 <a href="https://www.hackerrank.com/@ammartariq0305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ammartariq0305" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iammartariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iammartariq" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/iammartariq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iammartariq" height="30" width="40" /></a>
+<a href="https://www.behance.net/iammartariq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iammartariq" height="30" width="40" /></a>
 
 </p>
 
 # 💻 Coding Skills:
 
-<table><table align="center"><tr><td valign="top" width="43%">
+<table><tr><td valign="top" width="43%">
 
 ### Programming Languages  
-<div class="row" align="left">  
+<div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
@@ -51,23 +48,22 @@
 
 
 ### Web Development  
-<div align="center><tr><td valign="top">
+<div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
     
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
-</td>
 
 </table>
 
 # 🤹 Tools:
 
-<table><table align="center"><tr><td valign="top" width="43%">
+<table><tr><td valign="top" width="43%">
 
 ### Editing Tools  
-<div align="left">  
+<div align="center">  
 
 <a href="https://staruml.io/" target="_blank"><img style="margin: 10px" src="https://anturis.com/wp-content/uploads/2022/09/StarUML-Logo-1-184x184.png" alt="StarUML" height="50" /></a>  
 
@@ -85,7 +81,7 @@
 </td><td valign="top" width="43%">
 
 ### Writing Tools  
-<div align="left">  
+<div align="center">  
 
 <a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/736x/46/aa/96/46aa967637e21e2a7f7bbef5196a663c.jpg" alt="Microsoft Word" height="50" /></a> 
 
