@@ -37,7 +37,7 @@
 
 # 💻 Coding Skills:
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="43%">
 
 ### Programming Languages  
 <div align="center">  
@@ -60,7 +60,7 @@
 
 # 🤹 Tools:
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="43%">
 
 ### Editing Tools  
 <div align="center">  
