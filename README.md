@@ -108,7 +108,7 @@
     <tr>
        <td align="center">
                 
- ![](https://github-readme-stats.vercel.app/api/top-langs?username=iammartariq&show_icons=true&locale=en&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs?username=iammartariq&show_icons=true&locale=en&include_all_commits=false&count_private=false&layout=compact)
      </td>
     
  </tr>
