@@ -6,11 +6,11 @@
 
 - 🌱 Computer and Systems Engineer
 
-- 📝 I regularly write articles on [www.instagram.com/iammarwrites](www.instagram.com/iammarwrites/)
-
 - 📫 How to reach me **ammartariq2405@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ammartariq24](www.linkedin.com/in/ammartariq24)
+
+- 📝 I regularly write articles on [www.iammartariq.wordpress.com](iammartariq.wordpress.com)
 
 - 🤓 I'm an active voluteer too
 
