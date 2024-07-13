@@ -82,11 +82,11 @@
 
 ### Writing Tools  
 <div align="center">  
-<a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Word_2013_logo.svg&psig=AOvVaw0tAum6ibWf1ySIiemC-PwB&ust=1720947778316000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiZt6bUo4cDFQAAAAAdAAAAABAE" alt="Microsoft Word" height="50" /></a> 
+<a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/736x/46/aa/96/46aa967637e21e2a7f7bbef5196a663c.jpg" alt="Microsoft Word" height="50" /></a> 
 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Excel_2013-2019_logo.svg&psig=AOvVaw3sP2XwpSVYsRzfBZ3jYtUE&ust=1720947934281000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID6z-TUo4cDFQAAAAAdAAAAABAE" alt="Microsoft Excel" height="50" /></a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/881px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Microsoft Excel" height="50" /></a> 
 
-<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonline.infidea.in%2Fcourses%2FPowerPoint-Beginner-To-Expert-5fa28aa10cf2a0a28992a473&psig=AOvVaw0XnVnToOdluGPeJ5NG6gmw&ust=1720947980742000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiJr_zUo4cDFQAAAAAdAAAAABAP" alt="Microsoft PowerPoint" height="50" /></a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqDUnc4SGfTRpTuS5NA65efRwyCqEGQ61ZQ&s" alt="Microsoft PowerPoint" height="50" /></a> 
 
 </td></tr>
 
