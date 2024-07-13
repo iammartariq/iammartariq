@@ -35,11 +35,9 @@
 
 </p>
 
-# 💻 Tech Stack:
+# 💻 Coding Skills:
 
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Programming Languages  
 <div align="center">  
@@ -49,20 +47,27 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Web Development  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+    
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
+</table>
 
+# 🤹 Other Skills:
 
+<table><tr><td valign="top" width="33%">
 
 ### Editing Tools  
 <div align="center">  
+
+<a href="https://staruml.io/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-staruml-unified-modeling-language-xml-metadata-int-6987477%2F&psig=AOvVaw2mdL7Z5AHIrlM5Eo5Y97-u&ust=1720948099364000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi3q7XVo4cDFQAAAAAdAAAAABAE" alt="StarUML" height="50" /></a>  
+
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a> 
     
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a> 
@@ -74,9 +79,19 @@
 <a href="https://www.canva.com" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/2562356?s=200&v=4" alt="Canva" height="50" /></a> 
 </div>
 
-</td></tr></table>  
+</td></tr>
 
+### Writing Tools  
+<div align="center">  
+<a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Word_2013_logo.svg&psig=AOvVaw0tAum6ibWf1ySIiemC-PwB&ust=1720947778316000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiZt6bUo4cDFQAAAAAdAAAAABAE" alt="Microsoft Word" height="50" /></a> 
 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AMicrosoft_Excel_2013-2019_logo.svg&psig=AOvVaw3sP2XwpSVYsRzfBZ3jYtUE&ust=1720947934281000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID6z-TUo4cDFQAAAAAdAAAAABAE" alt="Microsoft Excel" height="50" /></a> 
+
+<a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonline.infidea.in%2Fcourses%2FPowerPoint-Beginner-To-Expert-5fa28aa10cf2a0a28992a473&psig=AOvVaw0XnVnToOdluGPeJ5NG6gmw&ust=1720947980742000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiJr_zUo4cDFQAAAAAdAAAAABAP" alt="Microsoft PowerPoint" height="50" /></a> 
+
+</td></tr>
+
+</table>  
 
 
 <hr>
