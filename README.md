@@ -24,14 +24,17 @@
 ```
 
 # 🫡 Connect with me 
+
+<p>Socials</p>
 <p align="left">
 <a href="https://linkedin.com/in/ammartariq24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammartariq24" height="30" width="40" /></a>
 <a href="https://instagram.com/iammartariq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iammartariq" height="30" width="40" /></a>
-    
+<a href="https://www.behance.net/iammartariq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iammartariq" height="30" width="40" /></a>
+
+<p>Coding Platforms</p>   
 <a href="https://www.hackerrank.com/@ammartariq0305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ammartariq0305" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iammartariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iammartariq" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/iammartariq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iammartariq" height="30" width="40" /></a>
-<a href="https://www.behance.net/iammartariq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iammartariq" height="30" width="40" /></a>
 
 </p>
 
