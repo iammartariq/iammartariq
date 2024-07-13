@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences **(www.linkedin.com/in/ammartariq24)**
 
-- 📝 I regularly write articles on **(iammartariq.wordpress.com)**
+- 📝 I regularly write articles on **(www.iammartariq.wordpress.com)**
 
 - 🤓 I'm an active voluteer too
 
