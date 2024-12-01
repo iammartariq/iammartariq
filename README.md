@@ -49,7 +49,7 @@
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 
-<a href="https://www.learn-c.org/" target="_blank"><img style="margin: 10px" src="https://banner2.cleanpng.com/20171217/033/av2bv0zlf.webp" alt="C" height="50" /></a>  
+<a href="https://www.learn-c.org/" target="_blank"><img style="margin: 10px" src="https://www.clipartmax.com/png/small/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" alt="C" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="43%">
