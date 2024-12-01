@@ -92,7 +92,9 @@
 <div align="center">  
 
 <a href="https://www.microsoft.com/en/microsoft-365/word?market=af" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/736x/46/aa/96/46aa967637e21e2a7f7bbef5196a663c.jpg" alt="Microsoft Word" height="50" /></a> 
+
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/881px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Microsoft Excel" height="50" /></a> 
+
 <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqDUnc4SGfTRpTuS5NA65efRwyCqEGQ61ZQ&s" alt="Microsoft PowerPoint" height="50" /></a> 
 
 </table>  
