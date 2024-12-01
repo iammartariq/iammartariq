@@ -80,15 +80,9 @@
 ### Editing Tools  
 <div align="center">  
 
-<a href="https://staruml.io/" target="_blank"><img style="margin: 10px" src="https://anturis.com/wp-content/uploads/2022/09/StarUML-Logo-1-184x184.png" alt="StarUML" height="50" /></a>  
+<a href="https://electronicworkbenchewb.com/" target="_blank"><img style="margin: 10px" src="https://electronicworkbenchewb.com/wp-content/uploads/2023/11/Electronic-Workbench-2.webp" alt="Electronic Workbench" height="50" /></a> 
 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a> 
-    
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a> 
-
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
+<a href="https://staruml.io/" target="_blank"><img style="margin: 10px" src="https://anturis.com/wp-content/uploads/2022/09/StarUML-Logo-1-184x184.png" alt="StarUML" height="50" /></a>   
 
 <a href="https://www.canva.com" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/2562356?s=200&v=4" alt="Canva" height="50" /></a> 
 </div>
