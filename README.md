@@ -33,8 +33,6 @@
     
 <a href="https://linkedin.com/in/ammartariq24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammartariq24" height="30" width="40" /></a>
 <a href="https://instagram.com/iammartariq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iammartariq" height="30" width="40" /></a>
-<a href="https://www.behance.net/iammartariq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iammartariq" height="30" width="40" /></a>
-
 
 <p><b>Coding Platforms:</b></p> 
 
@@ -50,8 +48,11 @@
 
 ### Programming Languages  
 <div align="center">  
+    
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+    
 <a href="https://www.learn-c.org/" target="_blank"><img style="margin: 10px" src="https://www.clipartmax.com/png/small/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" alt="C" height="50" /></a>  
+
 </div>
 
 </td><td valign="top" width="43%">
@@ -59,9 +60,13 @@
 
 ### Web Development  
 <div align="center">  
+    
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+
 </div>
 
 </table>
@@ -74,8 +79,11 @@
 <div align="center">  
 
 <a href="https://electronicworkbenchewb.com/" target="_blank"><img style="margin: 10px" src="https://electronicworkbenchewb.com/wp-content/uploads/2023/11/Electronic-Workbench-2.webp" alt="Electronic Workbench" height="50" /></a> 
+
 <a href="https://staruml.io/" target="_blank"><img style="margin: 10px" src="https://anturis.com/wp-content/uploads/2022/09/StarUML-Logo-1-184x184.png" alt="StarUML" height="50" /></a>   
+
 <a href="https://www.canva.com" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/2562356?s=200&v=4" alt="Canva" height="50" /></a> 
+
 </div>
 
 </td><td valign="top" width="43%">
