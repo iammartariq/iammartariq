@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ammar+Tariq+%F0%9F%91%8B;Computer+%26+Systems+Engineer;Developer+%26+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!;Developer+%26+Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ## 📫 About Me
 
-I'm an Undergraduate Computer & Information Systems Engineer. Passionate about software development, tech innovation, and contributing to open source. Let’s connect:
+I'm an Undergraduate Computer & Information Systems Engineer. Passionate about software development and tech innovation. Let’s connect:
 
 - 📧 [ammartariq2405@gmail.com](mailto:ammartariq2405@gmail.com)  
 - 🔗 [linkedin.com/in/ammartariq24](https://www.linkedin.com/in/ammartariq24)
@@ -63,10 +63,8 @@ I'm an Undergraduate Computer & Information Systems Engineer. Passionate about s
 
 <div align="center">
 
-[![Smart Energy Meter](https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=smart-energy-meter&theme=radical)](https://github.com/iammartariq/smart-energy-meter)
-[![Facial Recognition Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=face-recognition-attendance-system&theme=radical)](https://github.com/iammartariq/face-recognition-attendance-system)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=portfolio-website&theme=radical)](https://github.com/iammartariq/portfolio-website)
-
+[![PARVAAZ](https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=Parvaaz&theme=radical)](https://github.com/iammartariq/smart-energy-meter)
+[![Virtual Voice Assistant](https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=Internship-CodeAlpha-2024&theme=radical)](https://github.com/iammartariq/face-recognition-attendance-system)
 </div>
 
 ---
