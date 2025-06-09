@@ -48,7 +48,7 @@ My journey in tech has been driven by curiosity and a desire to build applicatio
 <div align="center">
 
 ### 📈 Overall Stats
-<img src="https://github-readme-stats.vercel.app/api?username=iammartariq&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iammartariq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
 ### 🌟 Language Distribution
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammartariq&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
@@ -68,17 +68,12 @@ My journey in tech has been driven by curiosity and a desire to build applicatio
 
 ## 🚀 Featured Projects
 
-<div align="center">
+#### 🔹 [Parvaaz](https://github.com/iammartariq/Parvaaz)
+🛫 A flight booking platform allowing users to compare and book flights from various airlines. Users can log in/register, add passport/visa details, and get matched with budget-friendly options.
 
-[![PARVAAZ](https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=Parvaaz&theme=radical&hide_border=true)](https://github.com/iammartariq/Parvaaz)
+#### 🔹 [Virtual Voice Assistant](https://github.com/iammartariq/Internship-CodeAlpha-2024)
+🎙️ A Python-based voice assistant capable of handling productivity tasks via speech recognition and text-to-speech, with integration of APIs for dynamic responses.
 
-**PARVAAZ - Flight Booking Platform**  
-A single platform where you can book a flight with any airline. Users can log in or register, input passport and visa details, and search for flights based on preferences. Mention your flight details, and we will provide you with the airlines offering services according to your requirements and budget.
-
-[![Virtual Voice Assistant](https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=Internship-CodeAlpha-2024&theme=radical&hide_border=true)](https://github.com/iammartariq/Internship-CodeAlpha-2024)
-
-**Virtual Voice Assistant**  
-An intelligent voice-powered assistant built with Python that can perform various tasks through voice commands. Features speech recognition, text-to-speech capabilities, and integration with multiple APIs to provide a seamless user experience for daily productivity tasks.
 
 </div>
 
