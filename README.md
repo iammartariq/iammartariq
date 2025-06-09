@@ -14,7 +14,6 @@
 ---
 
 ## 📫 About Me
-
 🫡 I'm an Undergraduate Computer & Information Systems Engineer
 ⛑️ Working to polish my skills in Ai/ML and Data Science
 📱 Currently learning App Development
