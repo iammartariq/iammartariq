@@ -14,10 +14,10 @@
 ---
 
 ## 📫 About Me
-🫡 I'm an Undergraduate Computer & Information Systems Engineer
-⛑️ Working to polish my skills in Ai/ML and Data Science
-📱 Currently learning App Development
-🧑‍💻 Enthusiast Web Developer with a passion for creating innovative web solutions.
+  🫡 I'm an Undergraduate Computer & Information Systems Engineer
+  ⛑️ Working to polish my skills in Ai/ML and Data Science
+  📱 Currently learning App Development
+  🧑‍💻 Enthusiast Web Developer with a passion for creating innovative web solutions.
 
 **Let's connect and build something amazing together:**
 - 📧 [ammartariq2405@gmail.com](mailto:ammartariq2405@gmail.com)  
