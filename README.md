@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub Profile
-
 <div align="center">
   <h1>Ammar Tariq</h1>
   <strong>Undergraduate Computer & Information Systems Engineer</strong>
@@ -48,7 +46,7 @@ My journey in tech has been driven by curiosity and a desire to build applicatio
 ## 📊 GitHub Statistics & Analytics
 
 <div align="center">
-  
+
 ### 📈 Overall Stats
 <img src="https://github-readme-stats.vercel.app/api?username=iammartariq&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
 
@@ -59,7 +57,7 @@ My journey in tech has been driven by curiosity and a desire to build applicatio
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammartariq&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 
 ### 📊 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iammartariq&theme=redical&hide_border=true&bg_color=0D1117&color=00D9FF" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iammartariq&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF" alt="Activity Graph"/>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=iammartariq&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
@@ -88,11 +86,11 @@ An intelligent voice-powered assistant built with Python that can perform variou
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iammartariq&style=for-the-badge&color=brightgreen" alt="Profile Visits" />
-  
+
   ### 🤝 Let's Connect & Collaborate!
-  
+
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> **Open to new opportunities and exciting projects** <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
-  
+
   <br/><br/>
   <small>Thanks for visiting! Feel free to ⭐ star any project you like and let's build something amazing together!</small>
 </div>
