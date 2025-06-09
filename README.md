@@ -15,9 +15,10 @@
 
 ## 📫 About Me
 
-I'm an Undergraduate Computer & Information Systems Engineer with a passion for creating innovative web solutions and contributing to open-source projects. I love turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me exploring new technologies, learning about system architecture, or working on exciting side projects that push the boundaries of what's possible.
-
-My journey in tech has been driven by curiosity and a desire to build applications that make a real difference. I enjoy collaborating with fellow developers, sharing knowledge, and continuously learning from the amazing tech community.
+🫡 I'm an Undergraduate Computer & Information Systems Engineer
+⛑️ Working to polish my skills in Ai/ML and Data Science
+📱 Currently learning App Development
+🧑‍💻 Enthusiast Web Developer with a passion for creating innovative web solutions.
 
 **Let's connect and build something amazing together:**
 - 📧 [ammartariq2405@gmail.com](mailto:ammartariq2405@gmail.com)  
@@ -71,9 +72,11 @@ My journey in tech has been driven by curiosity and a desire to build applicatio
 #### 🔹 [Parvaaz](https://github.com/iammartariq/Parvaaz)
 🛫 A flight booking platform allowing users to compare and book flights from various airlines. Users can log in/register, add passport/visa details, and get matched with budget-friendly options.
 
-#### 🔹 [Virtual Voice Assistant](https://github.com/iammartariq/Internship-CodeAlpha-2024)
+#### 🔹 [Virtual Voice Assistant using Python](https://github.com/iammartariq/Internship-CodeAlpha-2024)
 🎙️ A Python-based voice assistant capable of handling productivity tasks via speech recognition and text-to-speech, with integration of APIs for dynamic responses.
 
+#### 🔹 [Shopping Cart System using Python](https://github.com/iammartariq/Second-Semester-CEP)
+🛒 A fully functional terminal based Shopping Cart System using Python and OOP concepts.
 
 </div>
 
