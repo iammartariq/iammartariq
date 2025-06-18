@@ -71,10 +71,10 @@
 #### 🔹 [Parvaaz](https://github.com/iammartariq/Parvaaz)
 🛫 A flight booking platform allowing users to compare and book flights from various airlines. Users can log in/register, add passport/visa details, and get matched with budget-friendly options.
 
-#### 🔹 [Virtual Voice Assistant using Python](https://github.com/iammartariq/Internship-CodeAlpha-2024)
+#### 🔹 [Virtual Voice Assistant using Python](https://github.com/iammartariq/Virtual-Voice-Assistant)
 🎙️ A Python-based voice assistant capable of handling productivity tasks via speech recognition and text-to-speech, with integration of APIs for dynamic responses.
 
-#### 🔹 [Shopping Cart System using Python](https://github.com/iammartariq/Second-Semester-CEP)
+#### 🔹 [Shopping Cart System using Python](https://github.com/iammartariq/Shopping-Mall-System)
 🛒 A fully functional terminal based Shopping Cart System using Python and OOP concepts.
 
 </div>
