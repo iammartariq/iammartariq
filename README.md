@@ -15,7 +15,7 @@
 
 ## 📫 About Me
   🫡 I'm an Undergraduate Computer & Information Systems Engineer
-  ⛑️ Working to polish my skills in Ai/ML and Data Science
+  ⛑️ Working to polish my skills Cyber Security
   📱 Currently learning App Development
   🧑‍💻 Enthusiast Web Developer with a passion for creating innovative web solutions.
 
@@ -54,22 +54,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammartariq&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
 
 ### 🔥 Contribution Streak & Activity
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  
-  <!-- Enhanced Streak Card with Fire Animation -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammartariq&theme=radical&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-  
-  <!-- Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iammartariq/iammartariq/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iammartariq/iammartariq/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iammartariq/iammartariq/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <!-- 3D Contribution Calendar -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iammartariq&theme=radical&hide_border=true&custom_title=Weekly+Development+Breakdown" alt="Weekly Development Stats"/>
-  
-</div>
+
+<!-- Enhanced Streak Card with Custom Styling -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iammartariq&theme=radical&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+
+<!-- Contribution Snake Animation - will work once you set up the GitHub Action -->
+<img src="https://raw.githubusercontent.com/iammartariq/iammartariq/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<!-- Daily Contribution Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=iammartariq&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊+Daily+Contribution+Stats" alt="Daily Stats"/>
 
 ### 📊 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iammartariq&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph"/>
@@ -77,14 +70,14 @@
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=iammartariq&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
-### ⚡ Quick Stats
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammartariq&theme=radical" alt="Profile Summary"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iammartariq&theme=radical" alt="Most Used Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammartariq&theme=radical" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammartariq&theme=radical" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iammartariq&theme=radical&utcOffset=5" alt="Productive Time"/>
-</div>
+### ⚡ Detailed Analytics
+
+<!-- Commit Activity -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammartariq&layout=donut&theme=radical&hide_border=true&langs_count=6" alt="Language Distribution Donut"/>
+
+<!-- Weekly Commit Activity -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=Parvaaz&theme=radical&hide_border=true" alt="Featured Repo - Parvaaz"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=Virtual-Voice-Assistant&theme=radical&hide_border=true" alt="Featured Repo - Voice Assistant"/>
 
 </div>
 
@@ -108,15 +101,13 @@
 <div align="center">
 
 ### 🌱 What I'm Currently Learning
-- 🤖 Advanced Machine Learning & Deep Learning
-- 📱 Mobile App Development (React Native)
-- ☁️ Cloud Computing & DevOps
+- 🤖 Cyber Securty
+- 📱 Mobile App Development (Flutter)
 - 🚀 Modern JavaScript Frameworks
 
 ### 📅 2025 Goals
 - [ ] 🏆 Contribute to major open-source projects
-- [ ] 📚 Complete AI/ML specialization
-- [ ] 🌐 Launch my personal portfolio website
+- [ ] 📚 Complete ethical hacking specialization
 - [ ] 🤝 Mentor aspiring developers
 
 </div>
