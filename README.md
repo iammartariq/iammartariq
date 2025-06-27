@@ -114,9 +114,8 @@
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/00D9FF/iammartariq" alt="GitHub Contribution Calendar" />
 
-### 🎯 Coding Focus
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iammartariq&theme=radical&hide_border=true&layout=compact&custom_title=Weekly+Coding+Activity" alt="Weekly Coding Activity"/>
-
+### 🎯 Recent Repository Activity
+<img src="https://github-readme-stats.vercel.app/api?username=iammartariq&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=Recent+Development+Activity" alt="Recent Development Activity"/>
 </div>
 
 ---
