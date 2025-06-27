@@ -71,11 +71,6 @@
 
 <!-- Commit Activity -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammartariq&layout=donut&theme=radical&hide_border=true&langs_count=6" alt="Language Distribution Donut"/>
-
-<!-- Weekly Commit Activity -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=Parvaaz&theme=radical&hide_border=true" alt="Featured Repo - Parvaaz"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iammartariq&repo=Virtual-Voice-Assistant&theme=radical&hide_border=true" alt="Featured Repo - Voice Assistant"/>
-
 </div>
 
 ---
