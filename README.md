@@ -15,7 +15,7 @@
 
 ## 📫 About Me
   🫡 I'm an Undergraduate Computer & Information Systems Engineer
-  ⛑️ Working to polish my skills Cyber Security
+  ⛑️ Working to polish my skills in Cyber Security
   📱 Currently learning App Development
   🧑‍💻 Enthusiast Web Developer with a passion for creating innovative web solutions.
 
@@ -58,9 +58,6 @@
 <!-- Enhanced Streak Card with Custom Styling -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iammartariq&theme=radical&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-<!-- Contribution Snake Animation - will work once you set up the GitHub Action -->
-<img src="https://raw.githubusercontent.com/iammartariq/iammartariq/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 <!-- Daily Contribution Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=iammartariq&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊+Daily+Contribution+Stats" alt="Daily Stats"/>
 
@@ -101,30 +98,29 @@
 <div align="center">
 
 ### 🌱 What I'm Currently Learning
-- 🤖 Cyber Securty
+- 🔐 Cyber Security & Ethical Hacking
 - 📱 Mobile App Development (Flutter)
 - 🚀 Modern JavaScript Frameworks
 
 ### 📅 2025 Goals
 - [ ] 🏆 Contribute to major open-source projects
 - [ ] 📚 Complete ethical hacking specialization
+- [ ] 🌐 Launch my personal portfolio website
 - [ ] 🤝 Mentor aspiring developers
 
 </div>
 
 ---
 
-## 📈 Coding Activity
+## 📈 Development Activity
 
 <div align="center">
 
-### ⏰ Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/00D9FF/iammartariq" alt="GitHub Contribution Calendar" />
 
-### 💻 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 🎯 Coding Focus
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iammartariq&theme=radical&hide_border=true&layout=compact&custom_title=Weekly+Coding+Activity" alt="Weekly Coding Activity"/>
 
 </div>
 
